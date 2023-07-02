@@ -1,5 +1,5 @@
 # Data_Scientist_Writing_A_Data_Scientist_Blog
-Analysing Airbnb data to write a blog post
+Analysing Airbnb data to write a blog post. The blog post was published on medium: https://medium.com/@ali5s.atif/you-can-become-an-airbnb-host-bac214da1124
 
 ## Libraries
 Python3 was used. Here are the Python libraries used in the project:
