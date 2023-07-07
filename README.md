@@ -1,6 +1,19 @@
 # Data_Scientist_Writing_A_Data_Scientist_Blog
 Analysing Airbnb data to write a blog post. The blog post was published on medium: https://medium.com/@ali5s.atif/you-can-become-an-airbnb-host-bac214da1124
 
+## Project Motivation
+The purpose of this project is for you to practise my technical skills and follow the CRISP-DM framework.
+
+Here is an overview of the main steps in this project, following the CRISP-DM process:
+- Determine three questions I am interested in answering.
+- Extract the necessary data to answer these questions.
+- Perform necessary cleaning, analysis, and modeling.
+- Evaluate results.
+- Share insights in a blog post.
+
+## Acknowledgements
+Thank you to Kaggle for the data. You can find the Context, Content other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle). Otherwise, feel free to use the code here as you would like!
+
 ## Libraries
 Python3 was used. Here are the Python libraries used in the project:
 Numpy
