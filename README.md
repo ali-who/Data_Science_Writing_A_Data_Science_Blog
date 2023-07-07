@@ -1,5 +1,5 @@
 # Data_Scientist_Writing_A_Data_Scientist_Blog
-Analysing Airbnb data to write a blog post. The blog post was published on medium: https://medium.com/@ali5s.atif/you-can-become-an-airbnb-host-bac214da1124
+Analysing Airbnb data to write a blog post. The blog post was published on [medium](https://medium.com/@ali5s.atif/you-can-become-an-airbnb-host-bac214da1124)
 
 ## Project Motivation
 The purpose of this project is for you to practise my technical skills and follow the CRISP-DM framework.
