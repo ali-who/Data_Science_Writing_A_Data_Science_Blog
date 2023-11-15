@@ -1,4 +1,4 @@
-# Data_Scientist_Writing_A_Data_Scientist_Blog
+# Data Science Writing A Data Science Blog
 Analysing Airbnb data to write a blog post. The blog post was published on [medium](https://medium.com/@ali5s.atif/you-can-become-an-airbnb-host-bac214da1124)
 
 ## Project Motivation
