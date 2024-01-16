@@ -16,11 +16,11 @@ Thank you to Kaggle for the data. You can find the Context, Content other descri
 
 ## Libraries
 Python3 was used. Here are the Python libraries used in the project:
-Numpy
-Pandas
-Seaborn
-matplotlib.pyplot
-Math
+- Numpy
+- Pandas
+- Seaborn
+- matplotlib
+- Math
 
 ## File Used
 'listings.csv', Original dataset in csv format
